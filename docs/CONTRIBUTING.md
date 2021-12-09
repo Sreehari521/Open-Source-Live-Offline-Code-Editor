@@ -6,7 +6,7 @@ Found a bug? Report it! Be sure to check if it is already reported by using the 
 Also, feel free to ask questions, suggest new features, and more.
 
 Creating pull requests
-Contributions are welcome! Be sure to file an issue first (see above). If you know a fix for that issue, or you know a fix for a different one, you can create a pull request. Fork this repository, create a new branch from the 'master' branch, and make your changes on the new branch. Now, create a pull request on the origin repository Educational-Websites
+Contributions are welcome! Be sure to file an issue first (see above). If you know a fix for that issue, or you know a fix for a different one, you can create a pull request. Fork this repository, create a new branch from the 'master' branch, and make your changes on the new branch. Now, create a pull request on the origin repository Website-Designers
 /
-HTML-tutorials. We will review your pull request.
+Open-Source-Live-Offline-Code-Editor. We will review your pull request.
 
