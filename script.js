@@ -102,5 +102,4 @@ function loadSampleCode() {
 	js.value = 'function my(){alert("Never Gonna Give You Up");}';
 	showPreview();
 
-
 }
